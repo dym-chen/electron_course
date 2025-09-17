@@ -4,6 +4,7 @@
         "dist-electron",
         "dist-react"
     ],
+    "extraResources": ["dist-election/preload.cjs"],
     "icon": "./chrome.png",
     "mac": {
         "target": "dmg"
